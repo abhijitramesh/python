@@ -10,6 +10,7 @@ s9 = str(input("enter string 9"))
 s10 = str(input("enter string 10"))
 s11 = str(input("enter string 11"))
 s12 = str(input("enter string 12"))
+#instead of taking so many inputs it's better to take input using an array
 s13 = s1 + s2 + s3
 s14 = s4 + s5 + s6
 s15 = s7 + s8 + s9
