@@ -38,6 +38,6 @@ for i in range (10):
     if(strr==str2):
        print "palindrome"
     else:
-       print "not palindrome"
+       print "not palindrome" #output
        
        """
