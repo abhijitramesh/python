@@ -5,7 +5,7 @@ for i in range(0,10):
 i = 0
 for i in range(0,10):
 	for j in range(0,9-i):
-		if a[j]>a[j+1]:
+		if a[j]>a[j+1]:   #checking whether the previous element is greater than the current index element
 			temp = a[j+1]
 			a[j+1] = a[j]
 			a[j] = temp
