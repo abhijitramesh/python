@@ -10,4 +10,4 @@ for i in range(0,10):
 			a[j+1] = a[j]
 			a[j] = temp
 
-print(a)
+print(b)
